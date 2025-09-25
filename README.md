@@ -1,4 +1,4 @@
-# MC Tools — MOTD Generator & Utilities
+# MOTD Generator
 
 A sleek set of tools for Minecraft server owners.  
 Current focus: a **live MOTD Generator** with rich formatting, multi-format outputs, and a pixel-perfect preview.
