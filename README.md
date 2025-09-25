@@ -25,12 +25,14 @@ I wanted something that supports **MiniMessage** as more and more mc server owne
 
 ## 🌐 Demo
 
-You can try the live version here:  
+A live demo will be available soon at:  
 👉 [tools.dchu096.me](https://tools.dchu096.me)
 
-The demo is always the **latest development build** 🚧 — meaning you’ll see new features and fixes as they land, but also the occasional bug 🐛.  
+Right now, the site isn’t released yet 🚧 — I’m still working through bugs and adding core features.  
+Once it’s live, you’ll be able to test MiniMessage + legacy MOTDs directly in your browser, with a real-time preview. 🎨⚡
 
-Use it to experiment, preview MiniMessage + legacy MOTDs, and share feedback. If something breaks, let me know or open an issue — it helps polish the tool faster. 🙌
+Stay tuned for updates, and keep an eye on this repo for release announcements! 🚀
+
 
 
 ---
