@@ -3,7 +3,7 @@
 A sleek set of tools for Minecraft server owners.  
 Current focus: a **live MOTD Generator** with rich formatting, multi-format outputs, and a pixel-perfect preview.
 
-![Screenshot of MOTD Generator](https://i.imgur.com/bySZhNy.png)
+![Screenshot of MOTD Generator](https://i.imgur.com/4j6Rv58.png)
 
 <p align="center">
   <a href="#features">Features</a> •
