@@ -5,16 +5,6 @@ Current focus: a **live MOTD Generator** with rich formatting, multi-format outp
 
 ![Screenshot of MOTD Generator](https://i.imgur.com/4j6Rv58.png)
 
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#demo">Demo</a> •
-  <a href="#quick-start">Quick Start</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#roadmap">Roadmap</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a>
-</p>
-
 ---
 
 ## 🌟 Why this exists
