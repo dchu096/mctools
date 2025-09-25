@@ -20,7 +20,7 @@ Current focus: a **live MOTD Generator** with rich formatting, multi-format outp
 ## 🌟 Why this exists
 
 Most MOTD generators dont support minimessage codes.  
-I wanted something that treats **MiniMessage** as a first-class citizen 💎 — gradients, nested tags, and clean output — while still giving you the classic formats when you need them. So I built a simple, fast tool that speaks both worlds. ⚡
+I wanted something that supports **MiniMessage** as more and more mc server owners started using it,💎 — gradients, nested tags, and clean output — while still giving you the classic formats when you need them. So I built a simple, fast tool that speaks both worlds. ⚡
 
 ### 🚀 What makes this different
 - 🎨 **MiniMessage-first**: full support for nested tags like `<gradient>`, `<bold>`, `<italic>`, `<underlined>`, `<obfuscated>`
