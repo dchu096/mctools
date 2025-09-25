@@ -33,8 +33,15 @@ I wanted something that supports **MiniMessage** as more and more mc server owne
 
 ---
 
-## Demo
+## ⚠️ Disclaimer
 
-- **Live site**: _Add your URL here (e.g., Vercel link)_
-- **Preview**:
+This project is still **early-stage** and a bit buggy 🐛.  
+It’s not ready for production servers yet — things may break, formatting may glitch, and features are still evolving.
+
+If you’re interested in helping out:
+- 🤝 Contributions are very welcome  
+- 🐞 Bug reports help a ton  
+- 💡 Feature suggestions are appreciated  
+
+The goal is to build a rock-solid, community-driven tool — so if you spot something off, don’t be shy about opening an issue or PR!
 
