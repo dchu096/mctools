@@ -23,6 +23,19 @@ I wanted something that supports **MiniMessage** as more and more mc server owne
 
 ---
 
+## 🌐 Demo
+
+You can try the live version here:  
+👉 [tools.dchu096.me](https://tools.dchu096.me)
+
+The demo is always the **latest development build** 🚧 — meaning you’ll see new features and fixes as they land, but also the occasional bug 🐛.  
+
+Use it to experiment, preview MiniMessage + legacy MOTDs, and share feedback. If something breaks, let me know or open an issue — it helps polish the tool faster. 🙌
+
+
+---
+
+
 ## ⚠️ Disclaimer
 
 This project is still **early-stage** and a bit buggy 🐛.  
